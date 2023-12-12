@@ -12,6 +12,8 @@ I am currently pursuing a Bachelor's degree in Software Development and Manageme
 ## ⚙️ Tools
 [![My Skills](https://skillicons.dev/icons?i=discord,github,vscode,idea,git)](https://skillicons.dev)
 
+## 🧠 Currently learning
+[![My Skills](https://skillicons.dev/icons?i=wasm)](https://skillicons.dev)
 
 ## 📚 What i want to learn
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs)](https://skillicons.dev)
